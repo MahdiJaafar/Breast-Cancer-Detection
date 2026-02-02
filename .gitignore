@@ -1,0 +1,23 @@
+# data & artifacts (keep repo light)
+Dataset/
+TestImages/
+Outcomes/
+*.h5
+*.pt
+*.pth
+*.onnx
+*.pkl
+*.joblib
+*.sav
+*.npy
+*.npz
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# env
+.env
